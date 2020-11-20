@@ -16,7 +16,7 @@ A global computer network providing a variety of information and communication f
 -> A 3D mouse lets you move effortlessly in all dimensions. Move the 3D mouse controller cap to zoom, pan and rotate simultaneously.  
 ### Architecture
 Graphical Depiction of proposed 3D Internet 
-[Architecture]<html><body> <img src="D:\venki_chinna\venkichinna.github.io\Architecture.jpg"></body></html>
+[Architecture]<img src="venkichinna.github.io\Architecture.jpg">
 ### Obstacles
 ##### 1. Internet speed:-  
 
