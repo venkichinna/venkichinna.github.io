@@ -1,4 +1,8 @@
-# About 3D Internet
+<html>
+<head><title>About 3D 
+</head>
+<body>
+
 ### What is 3D ?
 Any object or an image that is viewed in 3 dimensions (X-axis Y-axis  Z-axis) and that provides the perception of depth.    
 ### What is Internet ?
@@ -61,8 +65,10 @@ The best solution to hardware implications is to use a Vision Station. Vision St
 ->3D visualization of data for various fields.   
 
 ## References
-So if you want to Read More about [3D Internet](https://www.geeksforgeeks.org/introduction-of-3d-internet/).  
+So if you want to Read More about [3D Internet](https://www.geeksforgeeks.org/introduction-of-3d-internet/). 
 
 
+</body>
+</html>
 
 
