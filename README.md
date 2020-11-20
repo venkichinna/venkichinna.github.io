@@ -1,8 +1,4 @@
-<html>
-<head><title>About 3D </title>
-</head>
-<body>
-
+# ABOUT 3D INTERNET
 ### What is 3D ?
 Any object or an image that is viewed in 3 dimensions (X-axis Y-axis  Z-axis) and that provides the perception of depth.    
 ### What is Internet ?
@@ -19,56 +15,51 @@ A global computer network providing a variety of information and communication f
 -> Anyone putting on Googgles will be immersed in a three dimensional "stereo-vision" virtual reality.   
 -> A 3D mouse lets you move effortlessly in all dimensions. Move the 3D mouse controller cap to zoom, pan and rotate simultaneously.  
 ### Architecture
-Graphical Depiction of proposed 3D Internet [Architecture]<img src="D:\venki_chinna\venkichinna.github.io\Architecture.jpg">
+Graphical Depiction of proposed 3D Internet [Architecture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slideshare.net%2FMudududlavindhya%2F3d-internet-technical-seminar&psig=AOvVaw3mxhsEqhJPV83KPsH-OekT&ust=1605946654321000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjQtdTXkO0CFQAAAAAdAAAAABAT)
 
 ### Obstacles
-##### 1.Internet speed:-  
+##### 1. Internet speed:-  
 
 Internet Speed is one of the major obstacles for the full implementation of 3D Internet. These are in terms of limitation of bandwidth. As 3D Internet requires high end graphics and models, the requirement of high bandwidth is mandatory.    
 
-##### 2.Hardware:-  
+##### 2. Hardware:-  
     
 We have to move from our traditional screens to ones that are compatible to render 3D graphics. We will also require separate tools to view these 3D images. Moreover rendering of such high end models requires high usage of RAM and GPU. Thus upgrading to this technology requires an overall upgrade of the present system around the world.   
 
-##### 3.Cost:-       
+##### 3. Cost:-       
 
 As we see in above two points, it can be concluded that the cost involved in the overall implementation is high, which may discourage the masses.    
 ### Solutions
-##### A.Speed:- 
+##### A. Speed:- 
 
 Presently, India ranks 130th in providing broadband connections. The answer to the average broadband Internet speed problem is Google Fiber. Google Fiber provides a lightning speed of 1 gigabit per second (1,000 Mbit/s) which is about 100 times faster that the current speeds. It has already laid its roots in some cities with a vision of expanding worldwide.  
 
-##### B.Hardware:-   
+##### B. Hardware:-   
 
 The best solution to hardware implications is to use a Vision Station. Vision Station provides a 180 degrees ultra wide view of 3D visual world, providing a terrific 3D experience over the Internet at a cost much lower than the multi- projector systems and other hardware devices implementing 3D graphics.  
 ### Applications
-##### 1.E-commerce:-   
+##### 1. E-commerce:-   
 ->Product visualization.   
 ->3D virtual shops.   
 ->Interact in virtual workspaces.   
 
-##### 2.Education:-   
+##### 2. Education:-   
 ->Web-based training using interactive 3D.   
 ->Virtual experiments for physical sciences [Teach, learn, and practice in a way that feels real].  
 
-##### 3.Entertainment:-      
+##### 3. Entertainment:-      
 ->Multi-player, fully 3D games.     
 ->Streaming 3D animation.     
 ->3D Movies.  
 
-#####  4.Social Interaction:-   
+#####  4. Social Interaction:-   
 ->3D chat spaces.    
 
-##### 5.Collaborative design and engineering:-    
+##### 5. Collaborative design and engineering:-    
 ->Architecture.   
 ->Product design.    
 ->3D visualization of data for various fields.   
 
 ## References
-So if you want to Read More about [3D Internet](https://www.geeksforgeeks.org/introduction-of-3d-internet/). 
-
-
-</body>
-</html>
-
+So if you want to Read More about [3D Internet](https://www.geeksforgeeks.org/introduction-of-3d-internet/).   
 
