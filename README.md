@@ -15,8 +15,8 @@ A global computer network providing a variety of information and communication f
 -> Anyone putting on Googgles will be immersed in a three dimensional "stereo-vision" virtual reality.   
 -> A 3D mouse lets you move effortlessly in all dimensions. Move the 3D mouse controller cap to zoom, pan and rotate simultaneously.  
 ### Architecture
-Graphical Depiction of proposed 3D Internet [Architecture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slideshare.net%2FMudududlavindhya%2F3d-internet-technical-seminar&psig=AOvVaw3mxhsEqhJPV83KPsH-OekT&ust=1605946654321000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjQtdTXkO0CFQAAAAAdAAAAABAT)
-
+Graphical Depiction of proposed 3D Internet 
+[Architecture]<html><body> <img src="D:\venki_chinna\venkichinna.github.io\Architecture.jpg"></body></html>
 ### Obstacles
 ##### 1. Internet speed:-  
 
