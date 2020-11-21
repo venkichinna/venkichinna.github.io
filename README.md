@@ -6,7 +6,8 @@ A global computer network providing a variety of information and communication f
 ### 3D Internet
 -> 3D Internet is a powerful combination of two forces. Those two forces are Internet and 3D Graphics.     
 -> 3D Internet is a set of interconnected virtual worlds that users can visit to consume services, teleporting from one world to another.      
--> 3D Internet is one of the most important technologies world is looking forward to.    
+-> 3D Internet is one of the most important technologies world is looking forward to. 
+![The Future of Information Technology](about3d.jpg)     
 ### 3D Internet : Why ?
 -> Virtual” entities that are 3D representations of real-world counter-parts with spatial relationships.    
 -> Web-place metaphor of the 3D Internet which enables interaction between people in a natural way. In this sense, the 3D Internet can be seen as a natural successor of Web 2.0.     
@@ -16,7 +17,7 @@ A global computer network providing a variety of information and communication f
 -> A 3D mouse lets you move effortlessly in all dimensions. Move the 3D mouse controller cap to zoom, pan and rotate simultaneously.  
 ### Architecture
 Graphical Depiction of proposed 3D Internet 
-[Architecture]<img src="venkichinna.github.io\Architecture.jpg">
+![Architecture](Architecture.jpg)
 ### Obstacles
 ##### 1. Internet speed:-  
 
@@ -63,3 +64,6 @@ The best solution to hardware implications is to use a Vision Station. Vision St
 ## References
 So if you want to Read More about [3D Internet](https://www.geeksforgeeks.org/introduction-of-3d-internet/).   
 
+## Done By  
+**VENKATESH UPPALA**  
+![VENKATESH](myphoto.jpg)
