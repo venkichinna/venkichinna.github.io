@@ -62,8 +62,4 @@ The best solution to hardware implications is to use a Vision Station. Vision St
 ->3D visualization of data for various fields.   
 
 ## References
-So if you want to Read More about [3D Internet](https://www.geeksforgeeks.org/introduction-of-3d-internet/).   
-
-## Done By  
-**VENKATESH UPPALA**  
-![VENKATESH](myphoto.jpg)
+So if you want to Read More about [3D Internet](https://www.geeksforgeeks.org/introduction-of-3d-internet/).  
